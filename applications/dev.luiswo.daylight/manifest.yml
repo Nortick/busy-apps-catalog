@@ -1,0 +1,22 @@
+sourcecode:
+  type: git
+  location:
+    origin: https://github.com/LuisWollenschneider/busybar-daylight.git
+    commit_sha: 3ef175507a6acb18de2063e119d2af2fb64e14cd  # 0.1.0
+category: clocks
+short_description: "Daylight left today on the sun's arc, with sunrise, sunset, golden and blue hour, day length, moon phase and solstice."
+description: "@CATALOG.md"
+changelog: "First release: the sun's arc with the daylight left or the time to sunrise; animated sunrise, sunset, golden hour, blue hour, moon and solstice screens; the day length over a graph of the year; any other day with OK; polar night and midnight sun; the back display; auto-detected or fixed location, all computed offline."
+screenshots:
+  - screenshots/front-1.png
+  - screenshots/front-2.png
+  - screenshots/front-3.png
+  - screenshots/front-4.png
+  - screenshots/front-5.png
+  - screenshots/front-6.png
+  - screenshots/front-7.png
+  - screenshots/front-8.png
+  - screenshots/front-9.png
+back_screenshots:
+  - screenshots/back-1.png
+  - screenshots/back-2.png
