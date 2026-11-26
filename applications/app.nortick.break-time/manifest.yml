@@ -2,7 +2,7 @@ sourcecode:
   type: git
   location:
     origin: https://github.com/Nortick/break-time.git
-    commit_sha: 264be554bebe78dcb3e70c28d60a95d332842b1d
+    commit_sha: a334a6fdc4d75acb1852cae8af6658d393159378
 category: clocks
 short_description: A tiny pixel worker changes every digit his own way, plus a focus timer
 description: |-
