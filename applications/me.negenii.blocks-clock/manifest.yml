@@ -1,0 +1,24 @@
+sourcecode:
+  type: git
+  location:
+    origin: https://github.com/Negenii/busybar-blocks-clock-js.git
+    commit_sha: bf10d895f717d8dc4118045c8814ec8bea5bf3d3
+category: clocks
+short_description: A clock inspired by a famous game.
+description: |-
+  A clock for the BUSY Bar inspired by a famous game, ported from my native clock app.
+
+  ## Controls
+
+  On the clock, turn the wheel to change the colour. Press OK to switch the animation on or off.
+
+  ## Settings
+
+  More controls available at Setup menu: colour, 12 or 24 hours, seconds on or off, how the seconds animate, speed, the colon and the animation switch.
+changelog: First release.
+screenshots:
+  - screenshots/1.png
+  - screenshots/2.png
+  - screenshots/3.png
+  - screenshots/4.png
+  - screenshots/5.png
